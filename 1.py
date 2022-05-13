@@ -1,4 +1,4 @@
-from doctest import master
+from sre_constants import BRANCH
 
 
-master
+BRANCH
